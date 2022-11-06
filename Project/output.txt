@@ -1,0 +1,183 @@
+Welcome to OS machine:
+
+System initializing
+
+reading files in the folder:
+ another directory - not reading
+ another directory - not reading
+ another directory - not reading
+ another directory - not reading
+ another directory - not reading
+ another directory - not reading
+ another directory - not reading
+
+ The files list is: 
+test_1.txt, ar_2.txt, test_3.txt, test_10.txt, Te_11.txt, test_50.txt, test_55.txt, test_60.txt}
+
+running the system
+test_1.txtThe program had 7 operations already it is YIELD
+ar_2.txtThe program had 7 operations already it is YIELD
+test_3.txtThe program had 7 operations already it is YIELD
+test_10.txtThe program had 7 operations already it is YIELD
+Te_11.txtThe program had 7 operations already it is YIELD
+test_50.txtThe program had 7 operations already it is YIELD
+The file test_55.txt finish all of his operations
+test_60.txtThe program had 7 operations already it is YIELD
+test_1.txtThe program had 7 operations already it is YIELD
+The file ar_2.txt finish all of his operations
+The file test_3.txt finish all of his operations
+test_10.txtThe program had 7 operations already it is YIELD
+Te_11.txtThe program had 7 operations already it is YIELD
+The file test_50.txt finish all of his operations
+The file test_60.txt finish all of his operations
+The file test_1.txt finish all of his operations
+The file test_10.txt finish all of his operations
+The file Te_11.txt finish all of his operations
+Total Time: 95
+
+The memory is: 
+
+CELL 0: 100
+CELL 1: 150
+CELL 10: 40
+CELL 11: 17
+CELL 12: 1
+CELL 13: 16
+CELL 14: 24
+CELL 50: 20
+CELL 51: 10
+CELL 52: 1
+CELL 53: 10
+CELL 54: 6
+CELL 55: 30
+CELL 56: 50
+CELL 100: 8
+CELL 101: 11
+CELL 102: 10
+CELL 103: 13
+CELL 150: 169
+CELL 151: 50
+CELL 200: 30
+CELL 201: 40
+CELL 202: -20
+CELL 203: 50
+CELL 204: 150
+CELL 400: 2
+CELL 401: 200
+CELL 509: 40
+CELL 510: 10
+CELL 511: 40
+CELL 512: LDI 2
+CELL 513: STR 400
+CELL 514: LDI 202
+CELL 515: SUB 400
+CELL 516: STR 401
+CELL 517: CBR 544
+CELL 518: BRH 538
+CELL 519: LDI 400
+CELL 520: STR 402
+CELL 521: LDI 500
+CELL 522: STR 403
+CELL 523: YLD
+CELL 524: LDI 30
+CELL 525: STR 200
+CELL 526: LDI 40
+CELL 527: STR 201
+CELL 528: LDI 50
+CELL 529: STR 202
+CELL 530: LDI 0
+CELL 531: ADD 200
+CELL 532: ADD 201
+CELL 533: ADD 202
+CELL 534: STR 203
+CELL 535: LDI 100
+CELL 536: ADD 203
+CELL 537: STR 204
+CELL 538: YLD
+CELL 539: LDI 20
+CELL 540: STR 50
+CELL 541: LDI 10
+CELL 542: STR 51
+CELL 543: LDI 1
+CELL 544: STR 52
+CELL 545: LDI 10
+CELL 546: STR 53
+CELL 547: LDI 6
+CELL 548: STR 54
+CELL 549: LDI 30
+CELL 550: STR 55
+CELL 551: LDI 50
+CELL 552: STR 56
+CELL 553: LDI 8
+CELL 554: STR 100
+CELL 555: YLD
+CELL 556: LDI 100 
+CELL 557: STR 150
+CELL 558: LDI 50 
+CELL 559: STR 151 
+CELL 560: LDA 200 
+CELL 561: SUB 151 
+CELL 562: STR 202
+CELL 563: YLD
+CELL 564: LDI 40
+CELL 565: STR 511
+CELL 566: LDI 50
+CELL 567: SUB 511
+CELL 568: STR 510
+CELL 569: ADD 200
+CELL 570: STR 509
+CELL 571: YLD
+CELL 572: LDI 100
+CELL 573: STR 0
+CELL 574: LDI 50
+CELL 575: ADD 0
+CELL 576: STR 1
+CELL 577: YLD
+CELL 578: LDI 40
+CELL 579: STR 10
+CELL 580: LDI 17
+CELL 581: STR 11
+CELL 582: LDI 1
+CELL 583: STR 12
+CELL 584: LDA 11
+CELL 585: SUB 12
+CELL 586: STR 13
+CELL 587: LDA 10
+CELL 588: SUB 13
+CELL 589: STR 14
+CELL 590: YLD
+CELL 591: LDI 11
+CELL 592: STR 101
+CELL 593: LDI 10
+CELL 594: STR 102
+CELL 595: LDI 13
+CELL 596: STR 103
+CELL 597: LDI 0
+CELL 598: ADD 50
+CELL 599: ADD 51
+CELL 600: ADD 52
+CELL 601: ADD 53
+CELL 602: ADD 54
+CELL 603: ADD 55
+CELL 604: ADD 56
+CELL 605: ADD 100
+CELL 606: ADD 101
+CELL 607: ADD 102
+CELL 608: ADD 103
+CELL 609: STR 150
+CELL 610: YLD
+CELL 611: END
+
+The registers are:
+the ACC is :169
+The PSIAR is: 610
+The SAR is: 150
+The SDR: 169
+The TMPR: 150
+The CSIAR is: 0
+
+The final total time is: 95
+exiting the system
+finish
+
+Process finished with exit code 0
